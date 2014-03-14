@@ -1,4 +1,4 @@
-manhattan-project
+Manhattan Project
 =================
 
 Theme for Atom Editor
